@@ -23,9 +23,9 @@
 I am an **iOS-focused Software Engineer** based in **Anaheim/Fullerton, CA**. I specialize in bridging the gap between product design and technical execution.
 
 * 🎓 **Master's in Computer Science** at **CSU Fullerton**.
-* 📱 **iOS Software Engineer at Turing** (2022-2024): Optimized app stability by modularizing networking layers[cite: 63].
-* ⚛️ **Mobile Developer at Atliq**: Integrated APIs to reduce backend errors by 25%[cite: 69].
-* 💡 **Leadership:** Served as Web Tech Lead and Product Owner[cite: 126, 127].
+* 📱 **iOS Software Engineer at Turing** (2022-2024): Optimized app stability by modularizing networking layers.
+* ⚛️ **Mobile Developer at Atliq**: Integrated APIs to reduce backend errors by 25%.
+* 💡 **Leadership:** Served as Web Tech Lead and Product Owner.
 
 ---
 
