@@ -72,13 +72,5 @@ A secure, full-featured **Cryptocurrency Wallet** built for iOS.
 ---
 
 <div align="center">
-  <h3>📊 **GitHub Stats**</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Navjot1806&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
----
-
-<div align="center">
   <i>Let's connect! Reach out to me on LinkedIn or via Email.</i>
 </div>
