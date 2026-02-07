@@ -75,3 +75,4 @@ A secure, full-featured **Cryptocurrency Wallet** built for iOS.
   <i>Let's connect! Reach out to me on LinkedIn or via Email.</i>
 </div>
 
+<!-- Updated 2026-02-07 -->
